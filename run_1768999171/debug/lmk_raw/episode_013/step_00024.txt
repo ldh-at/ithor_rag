@@ -1,0 +1,1 @@
+LMK=laptop,drawer,sofa; SEEN=yes; LOC=near sofa

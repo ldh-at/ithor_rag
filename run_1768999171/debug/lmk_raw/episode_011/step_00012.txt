@@ -1,0 +1,1 @@
+LMK=printer,drawer,window,shelf,frame; SEEN=yes; LOC=bedroom

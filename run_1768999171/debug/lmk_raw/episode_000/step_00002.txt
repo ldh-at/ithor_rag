@@ -1,0 +1,1 @@
+LMK=table, chairs, box, picture, curtain; SEEN=no; LOC=none

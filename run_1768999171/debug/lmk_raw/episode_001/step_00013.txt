@@ -1,0 +1,1 @@
+LMK=alarmclock, laptop, lamp, dresser, mirror; SEEN=yes; LOC=bedroom

@@ -1,0 +1,1 @@
+LMK=bed, alarmclock, vacuum cleaner, pillow, blanket; SEEN=yes; LOC=bedroom

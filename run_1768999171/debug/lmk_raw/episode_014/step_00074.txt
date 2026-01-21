@@ -1,0 +1,1 @@
+LMK=fireplace, rug, table, chair, column; SEEN=no; LOC=none

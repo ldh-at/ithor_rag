@@ -1,0 +1,1 @@
+LMK= bowl, sink, countertop, cabinets, stove; SEEN=yes; LOC=kitchen

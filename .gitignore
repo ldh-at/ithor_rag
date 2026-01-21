@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Datasets & caches
+.prior/
+.cache/
+~/.prior/
+~/.cache/
+
+# Outputs (runs)
+outputs/
+runs/
+logs/
+frames/
+videos/
+*.mp4
+*.png
+
+# Model weights / HF cache
+models/
+checkpoints/
+hf_cache/
+.cache/huggingface/
+.cache/torch/
+
+# Unity / AI2-THOR artifacts
+unity_player.log
+*.log
+
+# Temporary
+tmp/
+*.tmp

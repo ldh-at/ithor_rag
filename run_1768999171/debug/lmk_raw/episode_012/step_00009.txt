@@ -1,0 +1,1 @@
+LMK=desk, cabinet, door, phone, book; SEEN=no; LOC=bedroom

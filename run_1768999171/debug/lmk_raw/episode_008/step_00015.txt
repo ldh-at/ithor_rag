@@ -1,0 +1,1 @@
+LMK=bed, dresser, lamp, picture, door; SEEN=no; LOC=bedroom

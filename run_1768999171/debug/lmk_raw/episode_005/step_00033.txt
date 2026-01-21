@@ -1,0 +1,1 @@
+LMK=stove, toaster, stool, trash can, countertop; SEEN=yes; LOC=kitchen

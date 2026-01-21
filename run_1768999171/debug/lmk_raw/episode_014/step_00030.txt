@@ -1,0 +1,1 @@
+LMK=armchair, rug, wall, door, picture; SEEN=no; LOC=living room

@@ -1,0 +1,1 @@
+LMK=armchair, cabinet, wall, floor, trash; SEEN=no; LOC=none

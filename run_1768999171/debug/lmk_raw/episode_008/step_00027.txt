@@ -1,0 +1,1 @@
+LMK=baseballbat,vacuum cleaner; SEEN=yes; LOC=corner of room

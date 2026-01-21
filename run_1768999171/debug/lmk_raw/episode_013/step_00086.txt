@@ -1,0 +1,1 @@
+LMK=drawer,sofa,wall,wooden floor,light; SEEN=no; LOC=near sofa

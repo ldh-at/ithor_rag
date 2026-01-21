@@ -1,0 +1,1 @@
+LMK=chair,chair,chair,fireplace,window; SEEN=no; LOC=none

@@ -1,0 +1,1 @@
+LMK=sofa, rug, coffee table, nightstand, chair; SEEN=yes; LOC=living room

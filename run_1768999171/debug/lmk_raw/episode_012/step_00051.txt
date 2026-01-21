@@ -1,0 +1,1 @@
+LMK=armchair, cabinet, picture frame, bowl, mug; SEEN=yes; LOC=near sofa

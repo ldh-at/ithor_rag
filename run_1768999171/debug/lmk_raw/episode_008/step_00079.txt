@@ -1,0 +1,1 @@
+LMK=baseballbat, picture frame, window, wall, floor; SEEN=yes; LOC=corner near window

@@ -1,0 +1,1 @@
+LMK=sofa, rug, fireplace, chair, desk; SEEN=yes; LOC=desk

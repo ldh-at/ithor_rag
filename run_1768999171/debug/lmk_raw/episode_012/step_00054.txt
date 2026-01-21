@@ -1,0 +1,1 @@
+LMK=armchair, cabinet, wall, floor, pencil; SEEN=no; LOC=bedroom

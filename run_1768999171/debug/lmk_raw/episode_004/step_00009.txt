@@ -1,0 +1,1 @@
+LMK=toilet,sink,drawer,shower,soap; SEEN=yes; LOC=bathroom

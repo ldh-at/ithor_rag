@@ -1,0 +1,1 @@
+LMK=bed,tennis racket,green pillow,blue blanket,white wall; SEEN=no; LOC=bedroom

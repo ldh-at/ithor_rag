@@ -1,0 +1,1 @@
+LMK=mirror, trash can, stairs, door, wall; SEEN=no; LOC=hallway

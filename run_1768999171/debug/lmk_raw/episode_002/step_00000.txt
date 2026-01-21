@@ -1,0 +1,1 @@
+LMK=chair, table, bowl, sink, counter; SEEN=yes; LOC=kitchen

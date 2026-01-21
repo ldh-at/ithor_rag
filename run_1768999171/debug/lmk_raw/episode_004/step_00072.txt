@@ -1,0 +1,1 @@
+LMK=vanity, sink, faucet, toilet, cabinet; SEEN=yes; LOC=bathroom

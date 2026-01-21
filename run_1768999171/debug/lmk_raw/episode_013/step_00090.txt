@@ -1,0 +1,1 @@
+LMK=desk, pencil, sofa; SEEN=no; LOC=near sofa

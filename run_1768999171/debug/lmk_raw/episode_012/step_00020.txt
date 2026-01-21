@@ -1,0 +1,1 @@
+LMK=bed,curtain,frame,bin,nightstand; SEEN=yes; LOC=bedroom

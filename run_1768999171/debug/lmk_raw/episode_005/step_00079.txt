@@ -1,0 +1,1 @@
+LMK=door, trash can, bowl, tile floor, cabinet; SEEN=yes; LOC=kitchen

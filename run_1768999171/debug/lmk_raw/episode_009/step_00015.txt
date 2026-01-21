@@ -1,0 +1,1 @@
+LMK=counter,kitchen sink,green bell pepper,wooden cabinets,black stove; SEEN=yes; LOC=kitchen

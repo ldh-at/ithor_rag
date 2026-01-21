@@ -1,0 +1,1 @@
+LMK=desk,book,remote,phone,laptop; SEEN=yes; LOC=bedroom

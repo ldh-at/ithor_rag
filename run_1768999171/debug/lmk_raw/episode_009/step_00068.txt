@@ -1,0 +1,1 @@
+LMK=microwave,counter,door,chair,oven; SEEN=no; LOC=kitchen

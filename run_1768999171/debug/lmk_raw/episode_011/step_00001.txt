@@ -1,0 +1,1 @@
+LMK=bed, door, wall, floor, book; SEEN=yes; LOC=bedroom

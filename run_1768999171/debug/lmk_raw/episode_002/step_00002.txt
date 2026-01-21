@@ -1,0 +1,1 @@
+LMK=door, shadow, wall, floor, chair; SEEN=no; LOC=hallway

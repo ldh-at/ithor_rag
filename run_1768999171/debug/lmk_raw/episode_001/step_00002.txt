@@ -1,0 +1,1 @@
+LMK=alarmclock, laptop, desk, bookshelf, chair; SEEN=yes; LOC=desk

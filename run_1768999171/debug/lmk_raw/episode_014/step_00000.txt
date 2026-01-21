@@ -1,0 +1,1 @@
+LMK=rocking chair, nightstand, trash can, picture, bed; SEEN=yes; LOC=bedroom

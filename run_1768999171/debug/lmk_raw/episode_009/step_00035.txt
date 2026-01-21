@@ -1,0 +1,1 @@
+LMK=green bowl, red apple, green mango, silver faucet, brown countertop; SEEN=yes; LOC=kitchen

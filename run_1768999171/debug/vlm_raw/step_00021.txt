@@ -1,0 +1,28 @@
+user
+Target: laptop
+Allowed Actions: MoveAhead, RotateLeft, RotateRight, LookUp, LookDown, Stop
+
+Recent actions (last 5):
+RotateRight. MoveAhead. RotateLeft. RotateRight. RotateRight. RotateLeft
+
+RAG (short memory):
+Memory: visible landmarks are bed, trash can, nightstand, dresser. | Memory: visible landmarks are bed, trash can, nightstand, dresser. | Memory: visible landmarks are bed, curtain, trash can, dresser.
+
+Rules:
+- If the target is not visible, do NOT use Stop.
+- Look closely at the image and attend to distinct objects and shapes.
+- If the target is visible but not close, MoveAhead to get closer before stopping.
+- Use visible landmarks from memory to move closer and verify by approaching objects.
+- If you suspect the target is nearby, MoveAhead to confirm, then Stop only when clearly visible.
+- Explore the space by moving through rooms and around furniture to find the target.
+- If the view looks navigable or open, move around to explore.
+- If you recently failed to move forward, try RotateLeft or RotateRight.
+- Prefer exploration over repeating the same turn.
+- Use LookUp/LookDown only when searching vertically.
+- Choose the single best next action.
+
+Return one line only:
+ACTION=<one of: MoveAhead | RotateLeft | RotateRight | LookUp | LookDown | Stop>
+
+assistant
+RotateRight

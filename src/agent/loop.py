@@ -126,20 +126,6 @@ def run_episode(
         return loc if loc.lower() != "none" else ""
 
     stoplist = {
-        "wall",
-        "brick wall",
-        "floor",
-        "ceiling",
-        "room",
-        "light",
-        "lamp",
-        "door",
-        "window",
-        "baseboard",
-        "countertop",
-        "cabinet",
-        "cabinets",
-        "unknown",
     }
 
     def normalize_lmk(text: str) -> str:
@@ -156,11 +142,50 @@ def run_episode(
         if norm.endswith((" wall", " floor", " ceiling", " baseboard")):
             return True
         return False
+    def format_rag_snippets_merged(hits: List[Dict]) -> List[str]:
+        place_payload = None 
+        loc_payload = None
+        rest = []
+
+        for h in hits:
+            t = (h.get("text") or "").strip()
+            if t.startswith("PLACE:") and place_payload is None:
+                p = t.replace("PLACE:", "", 1).strip()
+                if p.lower() != "none":
+                    place_payload = p
+                continue
+            if t.startswith("LOC:") and loc_payload is None:
+                l = t.replace("LOC:", "", 1).strip()
+                if l.lower() != "none":
+                    loc_payload = l
+                continue
+            rest.append(t)
+
+        snippets = []
+
+        if place_payload and loc_payload:
+            snippets.append(
+                f"Memory: In {loc_payload}, these landmarks are near each other: {place_payload}."
+            )
+        elif place_payload:
+            snippets.append(
+                f"Memory: these landmarks are near each other: {place_payload}."
+            )
+        elif loc_payload:
+            snippets.append(
+                f"Memory: location hint is {loc_payload}."
+            )
+
+        for t in rest:
+            snippets.append(format_rag_snippet(t))
+
+        return snippets
+
 
     def format_rag_snippet(text: str) -> str:
         if text.startswith("PLACE:"):
             payload = text.replace("PLACE:", "", 1).strip()
-            return f"Memory: visible landmarks are {payload}."
+            return f"Memory: these landmarks are near each other: {payload}."
         if text.startswith("LOC:"):
             payload = text.replace("LOC:", "", 1).strip()
             return f"Memory: location hint is {payload}."
@@ -188,7 +213,8 @@ def run_episode(
             lmk_prompt = (
                 f"Target: {target_prompt}. "
                 "List up to 5 prominent objects you can see in the image, "
-                "and a short location hint (e.g., kitchen, bedroom, near sofa). "
+                "and a short location hint (e.g., kitchen, bedroom). "
+                "and target object visibility."
                 "Return exactly one line: "
                 "LMK=<comma-separated objects or none>; SEEN=<yes/no>; LOC=<short location or none>"
             )
@@ -214,7 +240,7 @@ def run_episode(
                 with open(lmk_path, "w", encoding="utf-8") as f:
                     f.write(lmk_raw)
             hits = retrieve(rag_store.all(), query, rag_top_k, rag_types)
-            rag_snippets = [format_rag_snippet(h.get("text", "")) for h in hits]
+            rag_snippets = format_rag_snippets_merged(hits)
             rag_hit_ids = [h.get("id") for h in hits]
             rag_hits = hits
 

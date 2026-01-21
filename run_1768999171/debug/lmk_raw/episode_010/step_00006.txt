@@ -1,1 +1,0 @@
-LMK=chair,sofa,coffee table,bookshelf,bin; SEEN=yes; LOC=near sofa

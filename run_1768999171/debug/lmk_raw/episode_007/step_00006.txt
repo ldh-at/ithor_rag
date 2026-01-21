@@ -1,1 +1,0 @@
-LMK=toilet,towel,shower stall; SEEN=yes; LOC=inside bathroom

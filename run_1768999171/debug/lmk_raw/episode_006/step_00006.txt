@@ -1,1 +1,0 @@
-LMK=microwave, bowl, spoon, apple, cabinet; SEEN=yes; LOC=kitchen

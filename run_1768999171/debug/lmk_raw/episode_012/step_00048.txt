@@ -1,1 +1,0 @@
-LMK=armchair, cabinet, picture, bucket, rug; SEEN=yes; LOC=bedroom

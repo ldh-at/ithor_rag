@@ -1,1 +1,0 @@
-LMK=bed, alarmclock, vacuum cleaner, baseball bat, green bowl; SEEN=yes; LOC=bedroom

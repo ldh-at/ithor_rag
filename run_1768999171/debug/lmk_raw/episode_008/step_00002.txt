@@ -1,1 +1,0 @@
-LMK=baseballbat, dresser, window, picture, blue pillow; SEEN=yes; LOC=bedroom

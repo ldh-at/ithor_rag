@@ -1,1 +1,0 @@
-LMK=desk, laptop, lamp, bed, bookshelf; SEEN=yes; LOC=bedroom

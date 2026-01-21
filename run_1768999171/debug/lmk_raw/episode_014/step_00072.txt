@@ -1,1 +1,0 @@
-LMK=fireplace, rug, table, chair, pillar; SEEN=no; LOC=none

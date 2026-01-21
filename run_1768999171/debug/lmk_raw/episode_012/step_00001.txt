@@ -1,1 +1,0 @@
-LMK=computer,mug,phone,book,cabinet; SEEN=yes; LOC=desk

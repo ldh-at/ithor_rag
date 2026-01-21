@@ -1,1 +1,0 @@
-LMK=sofa, picture frame, blue bowl, dark furniture, white paper; SEEN=yes; LOC=near sofa

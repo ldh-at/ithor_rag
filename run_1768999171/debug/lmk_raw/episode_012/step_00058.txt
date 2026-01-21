@@ -1,1 +1,0 @@
-LMK=chair,drawer,wall,carpet,framedpicture; SEEN=no; LOC=none

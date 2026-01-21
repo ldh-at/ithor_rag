@@ -1,1 +1,0 @@
-LMK=mirror,sink,shower,faucet,cabinet; SEEN=yes; LOC=bathroom

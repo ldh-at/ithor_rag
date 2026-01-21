@@ -1,1 +1,0 @@
-LMK=apple, mango, bottle, bowl, pot; SEEN=yes; LOC=kitchen

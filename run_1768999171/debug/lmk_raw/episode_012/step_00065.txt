@@ -1,1 +1,0 @@
-LMK=bed,curtain,window,frame,bucket; SEEN=no; LOC=bedroom

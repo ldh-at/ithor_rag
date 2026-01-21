@@ -1,1 +1,0 @@
-LMK=bed,laptop,door,carpet,wall; SEEN=yes; LOC=bedroom

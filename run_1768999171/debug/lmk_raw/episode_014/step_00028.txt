@@ -1,1 +1,0 @@
-LMK=chair,pet bed; SEEN=no; LOC=corner of room

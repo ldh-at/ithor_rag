@@ -1,1 +1,0 @@
-LMK=sofa, wall, floor, corner, chair; SEEN=no; LOC=none

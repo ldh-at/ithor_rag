@@ -1,1 +1,0 @@
-LMK=microwave,refrigerator,cabinet,counter,top; SEEN=yes; LOC=kitchen

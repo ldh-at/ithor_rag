@@ -1,1 +1,0 @@
-LMK=desk,laptop,drawer,chair,shelf; SEEN=yes; LOC=bedroom

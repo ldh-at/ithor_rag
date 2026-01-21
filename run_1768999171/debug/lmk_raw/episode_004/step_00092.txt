@@ -1,1 +1,0 @@
-LMK=showerhead,sink,drawer,towel,shower curtain; SEEN=yes; LOC=bathroom

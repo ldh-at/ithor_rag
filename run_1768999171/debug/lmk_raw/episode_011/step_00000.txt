@@ -1,1 +1,0 @@
-LMK=bed, vacuum cleaner, window, shelf, pillows; SEEN=no; LOC=bedroom

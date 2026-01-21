@@ -1,1 +1,0 @@
-LMK=sofa, cabinets, stool, rug, broom; SEEN=no; LOC=none

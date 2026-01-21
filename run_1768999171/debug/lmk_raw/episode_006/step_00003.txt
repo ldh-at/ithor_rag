@@ -1,1 +1,0 @@
-LMK=soap bottle, sink, faucet, countertop, cabinet; SEEN=yes; LOC=kitchen

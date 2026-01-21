@@ -1,1 +1,0 @@
-LMK=television,laptop,curtain,waste bin,table; SEEN=yes; LOC=living room

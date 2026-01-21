@@ -1,1 +1,0 @@
-LMK=fridge, sink, bowl, bottle, cutting board; SEEN=yes; LOC=kitchen

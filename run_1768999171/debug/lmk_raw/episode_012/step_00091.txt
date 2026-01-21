@@ -1,1 +1,0 @@
-LMK=armchair,drawer,frame,bucket; SEEN=yes; LOC=near armchair

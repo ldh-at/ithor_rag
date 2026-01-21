@@ -1,1 +1,0 @@
-LMK=monitor,keyboard,desk,bookshelf,blanket; SEEN=yes; LOC=bedroom

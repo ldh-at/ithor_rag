@@ -1,1 +1,0 @@
-LMK=alarmclock, trashcan, table, door, floor; SEEN=yes; LOC=bedroom

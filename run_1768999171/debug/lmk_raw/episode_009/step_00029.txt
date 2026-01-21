@@ -1,1 +1,0 @@
-LMK=banana, sink, cabinet, stove, bowl; SEEN=yes; LOC=kitchen

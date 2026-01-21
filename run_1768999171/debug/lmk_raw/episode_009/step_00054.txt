@@ -1,1 +1,0 @@
-LMK=fridge,kitchen counter,sink,green bowl,red apple; SEEN=yes; LOC=kitchen

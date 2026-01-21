@@ -1,1 +1,0 @@
-LMK=sofa,table,chair,side table,plant; SEEN=no; LOC=none

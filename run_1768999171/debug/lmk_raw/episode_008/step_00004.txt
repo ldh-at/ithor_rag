@@ -1,1 +1,0 @@
-LMK=baseballbat,box,window,frame,door; SEEN=yes; LOC=near window

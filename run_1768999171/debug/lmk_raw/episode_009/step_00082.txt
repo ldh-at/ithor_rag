@@ -1,1 +1,0 @@
-LMK= sink, mango, bottle, bowl, knife; SEEN=yes; LOC=kitchen

@@ -1,1 +1,0 @@
-LMK=sofa, rug, window, table, laptop; SEEN=yes; LOC=near sofa

@@ -1,1 +1,0 @@
-LMK=green bowl, red apple, green pepper, silver pot, wooden spoon; SEEN=yes; LOC=kitchen

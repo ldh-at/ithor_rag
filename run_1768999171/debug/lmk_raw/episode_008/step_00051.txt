@@ -1,1 +1,0 @@
-LMK=bed,tennis racket,枕头,被子,书; SEEN=no; LOC=bedroom

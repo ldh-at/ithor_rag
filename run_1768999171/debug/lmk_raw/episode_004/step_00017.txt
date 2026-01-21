@@ -1,1 +1,0 @@
-LMK=shower, door, floor, wall, cabinet; SEEN=no; LOC=bathroom

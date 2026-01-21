@@ -1,1 +1,0 @@
-LMK=alarmclock, desk, bookshelf, laptop, blue blanket; SEEN=yes; LOC=bedroom

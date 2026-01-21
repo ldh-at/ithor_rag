@@ -1,1 +1,0 @@
-LMK=sofa, rug, fireplace, window, painting; SEEN=no; LOC=near sofa

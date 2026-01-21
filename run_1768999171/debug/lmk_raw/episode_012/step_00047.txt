@@ -1,1 +1,0 @@
-LMK=armchair,cabinet,frame,mug,bin; SEEN=yes; LOC=corner of room

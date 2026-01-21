@@ -1,1 +1,0 @@
-LMK=sofa, rug, wall, window, picture; SEEN=no; LOC=none

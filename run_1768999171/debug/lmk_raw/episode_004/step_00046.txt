@@ -1,1 +1,0 @@
-LMK=double sink, dark cabinet, wooden floor, white wall, toilet; SEEN=no; LOC=bathroom

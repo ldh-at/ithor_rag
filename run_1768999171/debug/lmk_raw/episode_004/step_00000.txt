@@ -1,1 +1,0 @@
-LMK=toilet, trash can, door, cabinet, sink; SEEN=no; LOC=bathroom

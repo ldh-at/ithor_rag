@@ -1,1 +1,0 @@
-LMK=book, cup, remote, rug, cabinet; SEEN=yes; LOC=bedroom

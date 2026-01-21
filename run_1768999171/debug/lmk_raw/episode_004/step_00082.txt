@@ -1,1 +1,0 @@
-LMK=double sink, vanity, wooden floor, toilet, faucet; SEEN=yes; LOC=bathroom

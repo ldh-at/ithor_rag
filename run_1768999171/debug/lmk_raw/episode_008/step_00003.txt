@@ -1,1 +1,0 @@
-LMK=baseballbat,bookshelf,window,drawer,framedpicture; SEEN=yes; LOC=near window

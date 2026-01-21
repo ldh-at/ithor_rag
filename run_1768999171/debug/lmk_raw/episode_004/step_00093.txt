@@ -1,1 +1,0 @@
-LMK=shower, sink, cabinet, towel, faucet; SEEN=yes; LOC=bathroom

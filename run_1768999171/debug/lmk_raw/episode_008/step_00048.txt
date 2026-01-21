@@ -1,1 +1,0 @@
-LMK=bed,tennis racket,blanket,枕头,wall; SEEN=no; LOC=bedroom

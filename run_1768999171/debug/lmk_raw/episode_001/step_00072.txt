@@ -1,1 +1,0 @@
-LMK=bed, door, floor, wall, tile; SEEN=no; LOC=bedroom

@@ -1,1 +1,0 @@
-LMK=chair,chair,chair,chair,fireplace; SEEN=no; LOC=none

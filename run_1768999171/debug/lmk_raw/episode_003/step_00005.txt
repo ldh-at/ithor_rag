@@ -1,1 +1,0 @@
-LMK=door, wall, TV, floor, none; SEEN=no; LOC=near sofa

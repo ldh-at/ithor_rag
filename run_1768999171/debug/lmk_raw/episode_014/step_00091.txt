@@ -1,1 +1,0 @@
-LMK=desk,chair,drawer,shelf,table; SEEN=no; LOC=none
